@@ -1,8 +1,10 @@
 streamlit
-langchain
-langchain-community
-langchain-groq
-chromadb
 python-dotenv
 requests
-sentence-transformers
+
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-groq==0.1.5
+
+yfinance
